@@ -1,0 +1,9 @@
+#secrets and local seetings
+.env
+#python bulid artefacts
+__pycache__/
+*.pyc
+
+#Editor and OS files
+*~
+.vscode/
