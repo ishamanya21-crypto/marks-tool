@@ -9,7 +9,15 @@ def highest(marks):
 
 def lowest(marks):
    return min(marks)
+<<<<<<< Updated upstream
  
 def pass_count(marks, pass_mark):
     return len([mark for mark in marks if mark >= pass_mark])
  
+=======
+def pass_count(marks, pass_mark):
+    
+    count = 0
+    for marks in marks:
+             if mark>= 
+>>>>>>> Stashed changes
